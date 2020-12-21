@@ -8,7 +8,7 @@
             "email": "inggowish@gmail.com",
             "phone": "083811536395",
             "film": "Harry Potter",
-            "jumlah":2,
+            "jumlah":3,
             "kurs":["c2","c3"],
             "total": 270000 
             
@@ -19,9 +19,9 @@
             "email": "diva@gmail.com",
             "phone": "08381823556",
             "film": "Avengers",
-            "jumla":2,
+            "jumla":4,
             "kursi":["c4","c5"],
-            "total": 270000 
+            "total": 450000 
           }
     ]
   }
