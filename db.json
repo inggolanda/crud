@@ -1,0 +1,27 @@
+{
+ 
+    "pesanan": [
+        
+        {
+            "id": 1,
+            "name": "Inggo",
+            "email": "inggowish@gmail.com",
+            "phone": "083811536395",
+            "film": "Harry Potter",
+            "jumlah":2,
+            "kurs":["c2","c3"],
+            "total": 270000 
+            
+          },
+          {
+            "id": 2,
+            "name": "Diva",
+            "email": "diva@gmail.com",
+            "phone": "08381823556",
+            "film": "Avengers",
+            "jumla":2,
+            "kursi":["c4","c5"],
+            "total": 270000 
+          }
+    ]
+  }
