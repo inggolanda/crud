@@ -8,7 +8,6 @@
             "email": "inggowish@gmail.com",
             "phone": "083811536395",
             "film": "Harry Potter",
-            "jumlah":3,
             "total": 270000 
             
           },
@@ -18,7 +17,6 @@
             "email": "diva@gmail.com",
             "phone": "08381823556",
             "film": "Avengers",
-            "jumla":4,
             "total": 450000 
           }
     ]
