@@ -1,0 +1,25 @@
+{
+ 
+    "pesanan": [
+        
+        {
+            "id": 1,
+            "name": "Inggo",
+            "email": "inggowish@gmail.com",
+            "phone": "083811536395",
+            "film": "Harry Potter",
+            "harga": 57000,
+            "total": 270000 
+            
+          },
+          {
+            "id": 2,
+            "name": "Diva",
+            "email": "diva@gmail.com",
+            "phone": "08381823556",
+            "film": "Avengers",
+            "harga": 78000,
+            "total": 450000 
+          }
+    ]
+  }
